@@ -1,6 +1,12 @@
 # Roberto Albornoz Martinez
 
-Finance professional who uses analytics to make decisions, now completing an M.S. in Business Analytics (STEM-designated, Data & Methods concentration) at Boston University's Questrom School of Business, expected January 2027. More than eight years in finance roles before the MSBA: structured-finance credit analysis at S&P Global, AML and enhanced due diligence at Scotiabank, and financial planning and business development at Cine Colombia, where I directed exhibition and pricing strategy. My work centers on credit and prepayment risk, forecasting and stress testing, and turning model output into a decision a business can act on.
+Finance professional who uses analytics to make decisions, with an M.S. in Finance and a B.S. in Finance and International Trade, now completing an M.S. in Business Analytics (STEM-designated, Data & Methods concentration) at Boston University's Questrom School of Business, expected January 2027. More than eight years in finance roles before the MSBA: structured-finance credit analysis at S&P Global, AML and enhanced due diligence at Scotiabank, and financial planning and business development at Cine Colombia, where I directed exhibition and pricing strategy. My work centers on credit and prepayment risk, forecasting and stress testing, and turning model output into a decision a business can act on.
+
+## Education
+
+- M.S. in Business Analytics (STEM-designated), Data & Methods Concentration, Boston University, Questrom School of Business, expected Jan 2027
+- M.S. in Finance, Universidad de los Andes, Apr 2021
+- B.S. in Finance and International Trade, Universidad del Rosario, Oct 2014
 
 ## Portfolio
 

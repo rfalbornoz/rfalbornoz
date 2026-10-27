@@ -12,10 +12,10 @@ Finance professional who uses analytics to make decisions, with an M.S. in Finan
 
 | Repository | What it is | Methods |
 |---|---|---|
-| [mortgage-prepayment-rate-regimes](https://github.com/rfalbornoz/mortgage-prepayment-rate-regimes) | Individual capstone research paper: voluntary mortgage prepayment on Freddie Mac loan-level data (2018 and 2020 vintages) and whether a model calibrated in one rate regime transfers to the other | Discrete-time hazard panel, logistic regression, gradient boosting, cross-regime transfer test, calibration analysis |
-| [loan-default-risk-prediction](https://github.com/rfalbornoz/loan-default-risk-prediction) | Team project: predicting loan default for New England and New York borrowers on LendingClub data | Logistic regression, decision tree, random forest, XGBoost, GridSearchCV |
-| [european-pharmaceutical-rd-analysis](https://github.com/rfalbornoz/european-pharmaceutical-rd-analysis) | Team project: structure of the European Medicines Agency authorization landscape | Clustering, Apriori association rules, Fisher's Exact Test |
-| [analytics-massachusetts-loan-risk](https://github.com/rfalbornoz/analytics-massachusetts-loan-risk) | Team project: Massachusetts loan default risk and local economic factors, integrating LendingClub loans with ACS Census estimates | Data integration, exploratory analysis, choropleth mapping |
+| [mortgage-prepayment-rate-regimes](https://github.com/rfalbornoz/mortgage-prepayment-rate-regimes) | Individual capstone research paper using Freddie Mac loan-level data to analyze voluntary mortgage prepayment across the 2018 and 2020 origination cohorts. Tests how well predictive models transfer across interest-rate regimes: they keep their ranking power but lose their calibration. | Discrete-time hazard panel, logistic regression, gradient boosting, cross-regime transfer test, calibration analysis |
+| [loan-default-risk-prediction](https://github.com/rfalbornoz/loan-default-risk-prediction) | Team project predicting loan default risk for approximately 87K LendingClub loans from New England and New York. | Logistic regression, decision tree, random forest, XGBoost, GridSearchCV |
+| [european-pharmaceutical-rd-analysis](https://github.com/rfalbornoz/european-pharmaceutical-rd-analysis) | Team project examining the European Medicines Agency’s authorization landscape: how regulatory pathways combine, how they relate to authorization outcomes, and how human and veterinary medicines differ. | Clustering, Apriori association rules, Fisher's Exact Test |
+| [analytics-massachusetts-loan-risk](https://github.com/rfalbornoz/analytics-massachusetts-loan-risk) | Team project integrating LendingClub loan data with U.S. Census (ACS) socioeconomic indicators to explore how borrower characteristics and local economic conditions relate to default risk in Massachusetts. | Data integration, exploratory analysis, choropleth mapping |
 
 ## Stack
 
